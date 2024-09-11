@@ -1111,6 +1111,6 @@ Miller_Indices:         Surf_E(J/m^2) EpA(eV) equi_EpA(eV)
 现在，用户已经了解了DP-GEN的基本用法。 有关更多信息，请参阅：
 
 1. GitHub：https：//github.com/deepmodeling/dpgen
-2. 论文：https：//deepmodeling.com/blog/papers/dpgen/
+2. 论文：https：//blogs.deepmodeling.com/papers/dpgen/
 
 **翻译：阙浩辉**
